@@ -1,6 +1,5 @@
 //
 //  LongPressButton.swift
-//  Translate AI
 //
 //  Created by Sajid on 02/05/25.
 //
